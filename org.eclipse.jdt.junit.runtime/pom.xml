@@ -25,7 +25,6 @@
 		<plugin>
 		 	<groupId>org.eclipse.tycho</groupId>
 			<artifactId>tycho-compiler-plugin</artifactId>
-			<version>${tycho-version}</version>
 			<configuration>
 				<release>1.8</release>
 			</configuration>
